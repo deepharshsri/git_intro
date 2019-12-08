@@ -1,1 +1,4 @@
-console.log('Hey deepansh')
+function greet(name){
+    console.log('hello '+ name)
+}
+greet('Deepansh')
